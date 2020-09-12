@@ -1,0 +1,17 @@
+.mainscreen {
+    /* background-color: red; */
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: space-between;
+    background-color: lightblue;
+}
+
+.mainscreen Button {
+    max-width: 20%;
+    font-size: 1.5rem;
+    margin: 2rem auto;
+    color: whitesmoke;
+}
